@@ -1,5 +1,3 @@
-“Siamo alla ricerca di uno sviluppatore JavaScript che non abbia voglia di lavorare.
-
 A lazy programmer loves programming, but hates working, so they work as little as possible.
 
 A lazy programmer finds every possible way to avoid working in the weekends.

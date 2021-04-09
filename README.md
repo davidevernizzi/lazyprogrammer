@@ -24,6 +24,6 @@ A lazy programmer startes at the code for hours, trying to figure out the way to
 
 A lazy programmer makes use of existing tools and services, so they can release earlier.
 
-A lazy programmer uses the basic UI template the hosting service provides them and then they say it's (brutalism)[https://brutalist-web.design/].
+A lazy programmer uses the basic UI template the hosting service provides them and then they say it's [brutalism](https://brutalist-web.design/).
 
-At (Saasform)[https://saasform.dev] we are lazy and we support lazy programmers to deliver great code fast and with little effort.
+At [Saasform](https://saasform.dev) we are lazy and we support lazy programmers to deliver great code fast and with little effort.

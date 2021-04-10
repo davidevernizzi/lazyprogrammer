@@ -1,3 +1,5 @@
+<script data-goatcounter="https://vernizzis.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
 A lazy programmer loves programming, but hates working, so they work as little as possible.
 
 A lazy programmer finds every possible way to avoid working in the weekends.

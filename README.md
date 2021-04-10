@@ -1,4 +1,4 @@
-<script data-goatcounter="https://vernizzis.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script data-goatcounter="https://lazyprogrammer.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 A lazy programmer loves programming, but hates working, so they work as little as possible.
 

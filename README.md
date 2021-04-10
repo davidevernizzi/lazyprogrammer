@@ -23,7 +23,7 @@ A lazy programmer is easy going, because arguing about silly things is, well, si
 
 A lazy programmer is super efficient, does in a couple of hours what would take a whole day to others, so that they can spend the rest of they lingering on the couch feasting on Netflix.
 
-A lazy programmer startes at the code for hours, trying to figure out the way to write as little code as possible.
+A lazy programmer stares at the code for hours, trying to figure out the way to write as little code as possible.
 
 A lazy programmer makes use of existing tools and services, so they can release earlier.
 
